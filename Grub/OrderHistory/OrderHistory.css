@@ -1,0 +1,27 @@
+.grublogo {
+  height: 70px;
+  padding:10;
+}
+
+
+.mainbody {
+  background-color: #fafafa;
+}
+
+
+.titletext {
+  font-size: 18px;
+}
+
+
+.block {
+  height: 80px;
+}
+
+
+.username {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ef2468;
+  margin-top: 4%;
+}

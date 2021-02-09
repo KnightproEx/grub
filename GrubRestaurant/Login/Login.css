@@ -1,0 +1,30 @@
+
+.grublogo {
+  height: 70px;
+  padding:10;
+}
+
+.mainbody {
+    background-color: #fafafa;
+  }
+
+.titletext {
+    color: #ef2468;
+    font-weight: bold;
+    font-size: 45px;
+  }
+
+header {
+    position: relative;
+    height: 300px;
+    background: #ef2468;
+    border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 50% 20%;
+  }
+
+  .center-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

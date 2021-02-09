@@ -1,0 +1,39 @@
+.grublogo {
+  height: 70px;
+  padding:10;
+}
+
+
+.titletext {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 44px;
+}
+
+
+.center-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.mainheading {
+  font-size: 30px;
+}
+
+
+.username {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ef2468;
+  margin-top: 4%;
+}
+
+
+#spacegray {
+    padding-left: 20;
+    color: #424242;
+    max-width: 600;
+}

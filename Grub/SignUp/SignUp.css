@@ -1,0 +1,18 @@
+.mainbody {
+  background-color: #fafafa;
+}
+
+
+.titletext {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+
+.center-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,46 @@
+.grublogo {
+  height: 70px;
+  padding:10;
+}
+
+
+.mainbody {
+  background-color: #fafafa;
+}
+
+
+.titletext {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 70px;
+  padding-top: 50px;
+}
+
+
+.resetpasswordtext {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+
+.center-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.btngroup {
+  padding: 10px 30px;
+  display: block;
+}
+
+
+.username {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ef2468;
+  margin-top: 4%;
+}

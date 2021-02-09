@@ -1,0 +1,113 @@
+.grublogo {
+  height: 70px;
+  padding:10;
+}
+
+
+.mainbody {
+  background-color: #fafafa;
+}
+
+
+#board {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.card {
+  width: 430px;
+  height: 480px;
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  border-radius: 3%;
+  /*box-shadow: 5px 10px 8px #b8b8b8;*/
+  background-color:#fafafa;
+  transform: translateX(-50%) translateY(-50%) scale(0.95);
+  background-size: 480px 360px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+
+
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #ef2468;
+  position: absolute;
+  top: 76%;
+  margin-left: 10px;
+}
+
+
+.cartheading {
+  font-size: 34px;
+  font-weight: bold;
+  color: #ef2468;
+  margin-top: 4%;
+}
+
+
+.description {
+  font-size: 17px;
+  color: #888888;
+  position: absolute;
+  top: 84%;
+  margin-left: 10px;
+}
+
+
+.tips {
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.price {
+  font-size: 19px;
+  font-weight: bold;
+  color: #ef2468;
+  position: absolute;
+  top: 92%;
+  margin-left: 10px;
+}
+
+
+.cart {
+  bottom: 30%;
+  right: 30%;
+  position: absolute;
+}
+
+
+.payment {
+  font-size: 16px;
+  padding: 0px 20px;
+  color: rgb(83, 83, 83);
+}
+
+
+.total {
+  font-size: 16px;
+  padding: 0px 20px;
+  color: rgb(83, 83, 83);
+}
+
+
+.checkout {
+  position: absolute;
+  left: 4.5%;
+}
+
+
+.username {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ef2468;
+  margin-top: 4%;
+}

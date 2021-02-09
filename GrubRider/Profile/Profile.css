@@ -1,0 +1,33 @@
+.grublogo {
+  height: 70px;
+  padding:10;
+}
+
+
+.titletext {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 70px;
+  padding-top: 60px;
+}
+
+
+.dialog-title {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+
+.btngroup {
+  padding: 10px 30px;
+  display: block;
+}
+
+
+.username {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ef2468;
+  margin-top: 4%;
+}

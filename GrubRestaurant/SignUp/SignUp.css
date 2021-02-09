@@ -1,0 +1,17 @@
+.grublogo {
+  height: 70px;
+  padding:10
+}
+
+
+.mainbody {
+  background-color: #fafafa;
+}
+
+
+.titletext {
+  color: #ef2468;
+  font-weight: bold;
+  font-size: 55px;
+  margin-top: 10px;
+}
